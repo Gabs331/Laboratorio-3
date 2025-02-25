@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\Debug\Laboratorio3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio3.map</FILE>
+  <FILE>Laboratorio3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>43</LINE></SETUP>
+  <ISR_PCINT><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>200</LINE></ISR_PCINT>
+  <ISR_TIMER0_OVER><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>170</LINE></ISR_TIMER0_OVER>
+  <MT><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>41</LINE></MT>
+  <INIT_TMR0><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>188</LINE></INIT_TMR0>
+  <MAIN_LOOP><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>97</LINE></MAIN_LOOP>
+  <DISPLAY_SEG><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>118</LINE></DISPLAY_SEG>
+  <DISPLAY_MIN><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>137</LINE></DISPLAY_MIN>
+  <AUMENTAR1><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>156</LINE></AUMENTAR1>
+  <AUMENTAR2><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>163</LINE></AUMENTAR2>
+  <INCREMENTO><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>222</LINE></INCREMENTO>
+  <DECREMENTO><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>246</LINE></DECREMENTO>
+  <ISR_END><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>215</LINE></ISR_END>
+  <DEBOUNCE_INC><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>225</LINE></DEBOUNCE_INC>
+  <RESET_INC><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>241</LINE></RESET_INC>
+  <DEBOUNCE_DEC><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>249</LINE></DEBOUNCE_DEC>
+  <RESET_D><FILE>C:\Users\sarae\Documents\Atmel Studio\7.0\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>264</LINE></RESET_D>
+ </LABELS>
+</ASSEMBLER_INFO>

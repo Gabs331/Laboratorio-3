@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\Debug\PostLab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PostLab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PostLab3.map</FILE>
+  <FILE>PostLab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>42</LINE></SETUP>
+  <ISR_PCINT><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>199</LINE></ISR_PCINT>
+  <ISR_TIMER0_OVER><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>169</LINE></ISR_TIMER0_OVER>
+  <MT><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>40</LINE></MT>
+  <INIT_TMR0><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>187</LINE></INIT_TMR0>
+  <MAIN_LOOP><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>96</LINE></MAIN_LOOP>
+  <DISPLAY_SEG><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>117</LINE></DISPLAY_SEG>
+  <DISPLAY_MIN><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>136</LINE></DISPLAY_MIN>
+  <AUMENTAR1><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>155</LINE></AUMENTAR1>
+  <AUMENTAR2><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>162</LINE></AUMENTAR2>
+  <INCREMENTO><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>221</LINE></INCREMENTO>
+  <DECREMENTO><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>245</LINE></DECREMENTO>
+  <ISR_END><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>214</LINE></ISR_END>
+  <DEBOUNCE_INC><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>224</LINE></DEBOUNCE_INC>
+  <RESET_INC><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>240</LINE></RESET_INC>
+  <DEBOUNCE_DEC><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>248</LINE></DEBOUNCE_DEC>
+  <RESET_D><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\PostLab3\PostLab3\main.asm</FILE><LINE>263</LINE></RESET_D>
+ </LABELS>
+</ASSEMBLER_INFO>
